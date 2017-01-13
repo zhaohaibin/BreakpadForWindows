@@ -1,0 +1,8 @@
+D:/zhaohaibin/breakpad/build/CMakeFiles/breakpad_common.dir
+D:/zhaohaibin/breakpad/build/CMakeFiles/RUN_TESTS.dir
+D:/zhaohaibin/breakpad/build/CMakeFiles/dump_syms.dir
+D:/zhaohaibin/breakpad/build/CMakeFiles/breakpad.dir
+D:/zhaohaibin/breakpad/build/CMakeFiles/ALL_BUILD.dir
+D:/zhaohaibin/breakpad/build/CMakeFiles/ZERO_CHECK.dir
+D:/zhaohaibin/breakpad/build/test/CMakeFiles/buggy_app.dir
+D:/zhaohaibin/breakpad/build/test/CMakeFiles/RUN_TESTS.dir
