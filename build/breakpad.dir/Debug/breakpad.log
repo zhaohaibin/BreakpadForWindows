@@ -1,9 +1,24 @@
-﻿生成启动时间为 2017/1/13 14:22:31。
-     1>项目“D:\zhaohaibin\BreakpadForWindows\build\breakpad.vcxproj”在节点 2 上(clean 个目标)。
-     1>_PrepareForClean:
-         正在删除文件“breakpad.dir\Debug\breakpad.lastbuildstate”。
-     1>已完成生成项目“D:\zhaohaibin\BreakpadForWindows\build\breakpad.vcxproj”(clean 个目标)的操作。
+﻿生成启动时间为 2017/1/13 15:34:25。
+     1>项目“D:\zhaohaibin\新建文件夹\BreakpadForWindows\build\breakpad.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“breakpad.dir\Debug\breakpad.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         所有输出均为最新。
+       ClCompile:
+         所有输出均为最新。
+       Lib:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"Debug\breakpad.lib" /NOLOGO breakpad.dir\Debug\exception_handler.obj
+         breakpad.dir\Debug\client_info.obj
+         breakpad.dir\Debug\crash_generation_client.obj
+         breakpad.dir\Debug\crash_generation_server.obj
+         breakpad.dir\Debug\minidump_generator.obj  /machine:X86 
+         breakpad.vcxproj -> D:\zhaohaibin\新建文件夹\BreakpadForWindows\build\Debug\breakpad.lib
+       FinalizeBuildStatus:
+         正在删除文件“breakpad.dir\Debug\breakpad.unsuccessfulbuild”。
+         正在对“breakpad.dir\Debug\breakpad.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\zhaohaibin\新建文件夹\BreakpadForWindows\build\breakpad.vcxproj”(build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:00.01
+已用时间 00:00:00.20

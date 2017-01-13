@@ -1,9 +1,22 @@
-﻿生成启动时间为 2017/1/13 14:22:31。
-     1>项目“D:\zhaohaibin\BreakpadForWindows\build\breakpad_common.vcxproj”在节点 2 上(clean 个目标)。
-     1>_PrepareForClean:
-         正在删除文件“breakpad_common.dir\Debug\breakpad_common.lastbuildstate”。
-     1>已完成生成项目“D:\zhaohaibin\BreakpadForWindows\build\breakpad_common.vcxproj”(clean 个目标)的操作。
+﻿生成启动时间为 2017/1/13 15:34:25。
+     1>项目“D:\zhaohaibin\新建文件夹\BreakpadForWindows\build\breakpad_common.vcxproj”在节点 2 上(build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output 目录未以斜杠结尾。此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+     1>InitializeBuildStatus:
+         正在创建“breakpad_common.dir\Debug\breakpad_common.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         所有输出均为最新。
+       ClCompile:
+         所有输出均为最新。
+       Lib:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"Debug\breakpad_common.lib" /NOLOGO breakpad_common.dir\Debug\guid_string.obj
+         breakpad_common.dir\Debug\string_utils.obj  /machine:X86 
+         breakpad_common.vcxproj -> D:\zhaohaibin\新建文件夹\BreakpadForWindows\build\Debug\breakpad_common.lib
+       FinalizeBuildStatus:
+         正在删除文件“breakpad_common.dir\Debug\breakpad_common.unsuccessfulbuild”。
+         正在对“breakpad_common.dir\Debug\breakpad_common.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\zhaohaibin\新建文件夹\BreakpadForWindows\build\breakpad_common.vcxproj”(build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:00.00
+已用时间 00:00:00.15
